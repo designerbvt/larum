@@ -10,7 +10,7 @@
         <value>true</value>
     </property>
     <property name="universal-messaging-umserver.um-jndi-dest-t1.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-t1.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
     <property name="universal-messaging-umserver.common-local-users-administrator.password" data_type="string" many="false" isSecure="true" displayName="universal-messaging-umserver.common-local-users-administrator.password">
         <value>''</value>
@@ -19,7 +19,7 @@
         <value>'1.2'</value>
     </property>
     <property name="universal-messaging-umserver.um-jndi-dest-q1.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-q1.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
     <property name="universal-messaging-umserver.common-local-users-guest.password" data_type="string" many="false" isSecure="true" displayName="universal-messaging-umserver.common-local-users-guest.password">
         <value>''</value>
